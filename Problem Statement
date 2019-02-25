@@ -1,0 +1,6 @@
+Problem Statement
+1. states=rownames(USArrests)
+• Get states names with ‘w’.
+• Get states names with ‘W’.
+
+2. Prepare a histogram of the number of characters in each US state.
